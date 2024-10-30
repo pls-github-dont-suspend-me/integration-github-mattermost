@@ -11,9 +11,6 @@ setup(
     packages=[
         "mattermost",
     ],
-    install_requires=[
-        "requests",
-    ],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
